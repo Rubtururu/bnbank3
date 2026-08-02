@@ -1,5 +1,5 @@
 
-const CONTRACT_ADDRESS = '0x9Cc7f77bFe1C5FbbD329428C7b3aA20793A9D061';
+const CONTRACT_ADDRESS = '0x6f744abBC289B886B3258B04AD047a68F657dA50';
 // Ahora mismo configurado para BSC TESTNET (97 / 0x61), en fase de pruebas.
 // Cuando pases a producción real, cambiar a mainnet: 56 (0x38).
 const TARGET_CHAIN_ID_HEX = '0x61';
